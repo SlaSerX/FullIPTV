@@ -466,7 +466,7 @@ echo "##########################################################################
 echo " "
 echo "Remove Installation files"
 echo " "
-rm /root/FullIPTV-v2.sh
+rm -rf /root/FullIPTV/FullIPTV-v2.sh
 echo " "
 echo "####################################################################################"
 echo " "
@@ -479,3 +479,4 @@ echo "Server must be Rebooted !!!"
       if [ "$CONT" == "y" ] || [ "$CONT" == "Y" ]; then
       reboot
       fi
+
