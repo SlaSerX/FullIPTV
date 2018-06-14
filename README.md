@@ -46,6 +46,8 @@ FullIPTV auto install script v2.1-rc.4
   * Checking OS Support
   * fix bugs
   * Last Version FullIPTV Panel v2.0
+  
+  [![Click to Watch](https://img.youtube.com/vi/T9tzywL92_U/0.jpg)](https://www.youtube.com/watch?v=T9tzywL92_U "Click to Watch")
     
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=slaserx@itbox.bg&item_name=LinuxHelps%20Support&currency_code=EUR) - You can make one-time donations via PayPal. I'll probably buy a coffe. :coffee:
 Thanks! :heart:
